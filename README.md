@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fadtitas%2Fngrok-rdp%2F&labelColor=%2314213d&countColor=%23e5e5e5&style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/adtitas/ngrok-rdp?style=social)
+# Cộng tác
 
 ## 📮 Description
 
