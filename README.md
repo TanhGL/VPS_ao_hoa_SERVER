@@ -1,4 +1,4 @@
-## Cộng tác
+## Collaborators
 <table style="width:100%">
   <tr>
     <th>Collaborators</th>
