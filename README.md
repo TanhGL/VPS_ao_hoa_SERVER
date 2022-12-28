@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td><strong>Phan Ngoc Tanh </strong></td>
-    <td><strong>Admin </strong></td>
+    <td><strong>Admin System </strong></td>
   </tr>
  <tr>
     <td><strong>Le Duc Thi </strong></td>
-    <td><strong>User system</strong></td>
+    <td><strong>Admin System</strong></td>
   </tr>
  
   <tr>
