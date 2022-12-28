@@ -2,7 +2,7 @@
 <table style="width:100%">
   <tr>
     <th>FullName</th>
-    <th></th>
+    <th>Role</th>
     
   </tr>
   <tr>
